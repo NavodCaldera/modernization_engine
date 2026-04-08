@@ -1,0 +1,8 @@
+cli.py
+setup.py
+modernize_cli.egg-info/PKG-INFO
+modernize_cli.egg-info/SOURCES.txt
+modernize_cli.egg-info/dependency_links.txt
+modernize_cli.egg-info/entry_points.txt
+modernize_cli.egg-info/requires.txt
+modernize_cli.egg-info/top_level.txt
